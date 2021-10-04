@@ -89,7 +89,7 @@ goal_increase = 1.02  # percentage increase
 request_url = 'https://api.pro.coinbase.com/products/ADA-USD/ticker'
 
 # countdown until even minute
-# _countdown_wait(1)
+_countdown_wait(1)
 
 
 # time
